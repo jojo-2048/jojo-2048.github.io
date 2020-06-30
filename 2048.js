@@ -60,7 +60,7 @@ var sgypGame = {
 				sgypGame.goTop();　　　　
 			}　　　　
 			else {　　　　　　 //暂停游戏
-				alert('暂停游戏，可以追加计时器实现限时排名2048功能')
+				alert('“砸瓦鲁多！”游戏已暂停！')
 				document.getElementById('container').style.display = "none";
 				document.getElementById('peace').style.display = "block";
 				document.getElementById('peace').addEventListener('click', function() {
