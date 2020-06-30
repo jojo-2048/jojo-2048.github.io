@@ -28,7 +28,7 @@
 		/*outline: 0 none;*/
 	}
 	.item{
-		
+
 	    width: 100px;
 	    height: 100px;
 	    font-size: 0px;
@@ -86,7 +86,7 @@
 		}
 .n0{
     background: #ccc0b3;
-	
+
 }
 .n2
 {
@@ -213,7 +213,9 @@
 #gameover{
 	height: 408px;
 	width: 408px;
-	background: red;
+	background: url("0.jpg");
+	background-repeat: no-repeat;
+	background-size: 408px 408px;
 	display: none;
 }
 #final{
