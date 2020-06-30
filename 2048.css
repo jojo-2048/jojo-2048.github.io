@@ -224,7 +224,9 @@
 #peace{
 	height: 408px;
 	width: 408px;
-	background: #ecc850;
+	background: url("dio.jpg");
+	background-repeat: no-repeat;
+	background-size: 408px 408px;
 	display: none;
 }
 #btn{
